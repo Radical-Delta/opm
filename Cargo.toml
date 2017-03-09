@@ -1,0 +1,6 @@
+[package]
+name = "opm"
+version = "0.1.0"
+authors = ["Adam Spofford <pieflavor.mc@gmail.com>", "Hunar Roop Kahlon <hunar.roop@gmail.com>"]
+
+[dependencies]
