@@ -2,6 +2,7 @@ cache:
   directories:
     - target/deps/
     - target/.fingerprint/
+    - target/build/
 language: rust
 
 matrix:
